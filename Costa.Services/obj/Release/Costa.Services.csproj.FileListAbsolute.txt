@@ -1,0 +1,24 @@
+C:\Users\aydin\Documents\Visual Studio 2015\Projects\Costa\Costa.Services\bin\Release\Costa.Services.dll
+C:\Users\aydin\Documents\Visual Studio 2015\Projects\Costa\Costa.Services\bin\Release\Costa.Services.pdb
+C:\Users\aydin\Documents\Visual Studio 2015\Projects\Costa\Costa.Services\obj\Release\Costa.Services.csprojResolveAssemblyReference.cache
+C:\Users\aydin\Documents\Visual Studio 2015\Projects\Costa\Costa.Services\obj\Release\Costa.Services.csproj.CoreCompileInputs.cache
+C:\Users\aydin\Documents\Visual Studio 2015\Projects\Costa\Costa.Services\obj\Release\Costa.Services.dll
+C:\Users\aydin\Documents\Visual Studio 2015\Projects\Costa\Costa.Services\obj\Release\Costa.Services.pdb
+D:\Downloads\Costa\Costa.Services\bin\Release\Costa.Services.dll
+D:\Downloads\Costa\Costa.Services\bin\Release\Costa.Services.pdb
+D:\Downloads\Costa\Costa.Services\obj\Release\Costa.Services.csprojResolveAssemblyReference.cache
+D:\Downloads\Costa\Costa.Services\obj\Release\Costa.Services.csproj.CoreCompileInputs.cache
+D:\Downloads\Costa\Costa.Services\obj\Release\Costa.Services.dll
+D:\Downloads\Costa\Costa.Services\obj\Release\Costa.Services.pdb
+E:\Costa\CostaService.SyncShipJob\Costa.Services\bin\Release\Costa.Services.dll
+E:\Costa\CostaService.SyncShipJob\Costa.Services\bin\Release\Costa.Services.pdb
+E:\Costa\CostaService.SyncShipJob\Costa.Services\bin\Release\Newtonsoft.Json.dll
+E:\Costa\CostaService.SyncShipJob\Costa.Services\obj\Release\Costa.Services.csprojResolveAssemblyReference.cache
+E:\Costa\CostaService.SyncShipJob\Costa.Services\obj\Release\Costa.Services.csproj.CoreCompileInputs.cache
+E:\Costa\CostaService.SyncShipJob\Costa.Services\obj\Release\Costa.Services.dll
+E:\Costa\CostaService.SyncShipJob\Costa.Services\obj\Release\Costa.Services.pdb
+E:\Costa-Project\CostaService.SyncShipJobMarch-2018\Costa.Services\bin\Release\Costa.Services.dll
+E:\Costa-Project\CostaService.SyncShipJobMarch-2018\Costa.Services\bin\Release\Costa.Services.pdb
+E:\Costa-Project\CostaService.SyncShipJobMarch-2018\Costa.Services\obj\Release\Costa.Services.csprojResolveAssemblyReference.cache
+E:\Costa-Project\CostaService.SyncShipJobMarch-2018\Costa.Services\obj\Release\Costa.Services.dll
+E:\Costa-Project\CostaService.SyncShipJobMarch-2018\Costa.Services\obj\Release\Costa.Services.pdb

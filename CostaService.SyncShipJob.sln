@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CostaService.SyncShip.Job", "CostaService.SyncShipJob\CostaService.SyncShip.Job.csproj", "{786BC29C-92E1-47E4-8D1F-0603D4A03F92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Costa.Services", "Costa.Services\Costa.Services.csproj", "{4F7D8D4C-1299-4AB8-953A-F7BEEC412840}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{786BC29C-92E1-47E4-8D1F-0603D4A03F92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{786BC29C-92E1-47E4-8D1F-0603D4A03F92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{786BC29C-92E1-47E4-8D1F-0603D4A03F92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{786BC29C-92E1-47E4-8D1F-0603D4A03F92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F7D8D4C-1299-4AB8-953A-F7BEEC412840}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F7D8D4C-1299-4AB8-953A-F7BEEC412840}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F7D8D4C-1299-4AB8-953A-F7BEEC412840}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F7D8D4C-1299-4AB8-953A-F7BEEC412840}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {340DD09C-0D5F-470F-B946-623A7B40F3A5}
+	EndGlobalSection
+EndGlobal

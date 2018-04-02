@@ -1,0 +1,14 @@
+E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\obj\Debug\CostaService.SyncShipJob.csprojResolveAssemblyReference.cache
+E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\obj\Debug\CostaService.SyncShipJob.ProjectInstaller.resources
+E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\obj\Debug\CostaService.SyncShipJob.csproj.GenerateResource.Cache
+E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\obj\Debug\CostaService.SyncShipJob.csproj.CoreCompileInputs.cache
+E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\CostaService.SyncShipJob.exe.config
+E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\CostaService.SyncShipJob.exe
+E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\CostaService.SyncShipJob.pdb
+E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\Costa.Services.dll
+E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\Newtonsoft.Json.dll
+E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\Costa.Services.pdb
+E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\Newtonsoft.Json.xml
+E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\obj\Debug\CostaService.SyncShipJob.exe.config
+E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\obj\Debug\CostaService.SyncShipJob.exe
+E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\obj\Debug\CostaService.SyncShipJob.pdb

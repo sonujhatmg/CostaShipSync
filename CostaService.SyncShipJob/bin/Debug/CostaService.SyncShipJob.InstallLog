@@ -1,0 +1,10 @@
+﻿Uninstalling assembly 'E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\CostaService.SyncShipJob.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\CostaService.SyncShipJob.InstallLog
+   assemblypath = E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\CostaService.SyncShipJob.exe
+Removing EventLog source CostaSyncShipService.
+Warning: The source CostaSyncShipService is not registered on the local machine.
+Service CostaSyncShipService is being removed from the system...
+Service CostaSyncShipService was successfully removed from the system.
+Attempt to stop service CostaSyncShipService.

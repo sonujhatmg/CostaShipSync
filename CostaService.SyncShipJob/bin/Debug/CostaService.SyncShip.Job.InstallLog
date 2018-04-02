@@ -1,0 +1,147 @@
+﻿Installing assembly 'E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\CostaService.SyncShip.Job.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\CostaService.SyncShip.Job.InstallLog
+   assemblypath = E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\CostaService.SyncShip.Job.exe
+Installing service CostaSyncShipService1...
+Service CostaSyncShipService1 has been successfully installed.
+Creating EventLog source CostaSyncShipService1 in log Application...
+Committing assembly 'E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\CostaService.SyncShip.Job.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\CostaService.SyncShip.Job.InstallLog
+   assemblypath = E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\CostaService.SyncShip.Job.exe
+Uninstalling assembly 'E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\CostaService.SyncShip.Job.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\CostaService.SyncShip.Job.InstallLog
+   assemblypath = E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\CostaService.SyncShip.Job.exe
+Removing EventLog source CostaSyncShipService1.
+Service CostaSyncShipService1 is being removed from the system...
+Service CostaSyncShipService1 was successfully removed from the system.
+Installing assembly 'E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\CostaService.SyncShip.Job.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\CostaService.SyncShip.Job.InstallLog
+   assemblypath = E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\CostaService.SyncShip.Job.exe
+Installing service CostaSyncShip.Service...
+Service CostaSyncShip.Service has been successfully installed.
+Creating EventLog source CostaSyncShip.Service in log Application...
+Committing assembly 'E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\CostaService.SyncShip.Job.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\CostaService.SyncShip.Job.InstallLog
+   assemblypath = E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\CostaService.SyncShip.Job.exe
+Uninstalling assembly 'E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\CostaService.SyncShip.Job.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\CostaService.SyncShip.Job.InstallLog
+   assemblypath = E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\CostaService.SyncShip.Job.exe
+Removing EventLog source CostaSyncShip.Service.
+Service CostaSyncShip.Service is being removed from the system...
+Service CostaSyncShip.Service was successfully removed from the system.
+Installing assembly 'E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\CostaService.SyncShip.Job.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\CostaService.SyncShip.Job.InstallLog
+   assemblypath = E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\CostaService.SyncShip.Job.exe
+Installing service CostaSyncShip.Service...
+Service CostaSyncShip.Service has been successfully installed.
+Creating EventLog source CostaSyncShip.Service in log Application...
+Committing assembly 'E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\CostaService.SyncShip.Job.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\CostaService.SyncShip.Job.InstallLog
+   assemblypath = E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\CostaService.SyncShip.Job.exe
+Uninstalling assembly 'E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\CostaService.SyncShip.Job.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\CostaService.SyncShip.Job.InstallLog
+   assemblypath = E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\CostaService.SyncShip.Job.exe
+Removing EventLog source CostaSyncShip.Service.
+Service CostaSyncShip.Service is being removed from the system...
+Service CostaSyncShip.Service was successfully removed from the system.
+Installing assembly 'E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\CostaService.SyncShip.Job.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\CostaService.SyncShip.Job.InstallLog
+   assemblypath = E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\CostaService.SyncShip.Job.exe
+Installing service CostaSyncShip.Service...
+Service CostaSyncShip.Service has been successfully installed.
+Creating EventLog source CostaSyncShip.Service in log Application...
+Committing assembly 'E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\CostaService.SyncShip.Job.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\CostaService.SyncShip.Job.InstallLog
+   assemblypath = E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\CostaService.SyncShip.Job.exe
+Uninstalling assembly 'E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\CostaService.SyncShip.Job.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\CostaService.SyncShip.Job.InstallLog
+   assemblypath = E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\CostaService.SyncShip.Job.exe
+Removing EventLog source CostaSyncShip.Service.
+Service CostaSyncShip.Service is being removed from the system...
+Service CostaSyncShip.Service was successfully removed from the system.
+Installing assembly 'E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\CostaService.SyncShip.Job.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\CostaService.SyncShip.Job.InstallLog
+   assemblypath = E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\CostaService.SyncShip.Job.exe
+Installing service CostaSyncShip.Service...
+Service CostaSyncShip.Service has been successfully installed.
+Creating EventLog source CostaSyncShip.Service in log Application...
+Committing assembly 'E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\CostaService.SyncShip.Job.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\CostaService.SyncShip.Job.InstallLog
+   assemblypath = E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\CostaService.SyncShip.Job.exe
+Uninstalling assembly 'E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\CostaService.SyncShip.Job.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\CostaService.SyncShip.Job.InstallLog
+   assemblypath = E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\CostaService.SyncShip.Job.exe
+Removing EventLog source CostaSyncShip.Service.
+Service CostaSyncShip.Service is being removed from the system...
+Service CostaSyncShip.Service was successfully removed from the system.
+Installing assembly 'E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\CostaService.SyncShip.Job.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\CostaService.SyncShip.Job.InstallLog
+   assemblypath = E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\CostaService.SyncShip.Job.exe
+Installing service CostaSyncShip.Service...
+Service CostaSyncShip.Service has been successfully installed.
+Creating EventLog source CostaSyncShip.Service in log Application...
+Committing assembly 'E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\CostaService.SyncShip.Job.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\CostaService.SyncShip.Job.InstallLog
+   assemblypath = E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\CostaService.SyncShip.Job.exe
+Uninstalling assembly 'E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\CostaService.SyncShip.Job.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\CostaService.SyncShip.Job.InstallLog
+   assemblypath = E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\CostaService.SyncShip.Job.exe
+Removing EventLog source CostaSyncShip.Service.
+Service CostaSyncShip.Service is being removed from the system...
+Service CostaSyncShip.Service was successfully removed from the system.
+Installing assembly 'E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\CostaService.SyncShip.Job.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\CostaService.SyncShip.Job.InstallLog
+   assemblypath = E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\CostaService.SyncShip.Job.exe
+Installing service CostaSyncShip.Service...
+Service CostaSyncShip.Service has been successfully installed.
+Creating EventLog source CostaSyncShip.Service in log Application...
+Committing assembly 'E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\CostaService.SyncShip.Job.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\CostaService.SyncShip.Job.InstallLog
+   assemblypath = E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\CostaService.SyncShip.Job.exe
+Uninstalling assembly 'E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\CostaService.SyncShip.Job.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\CostaService.SyncShip.Job.InstallLog
+   assemblypath = E:\Costa\CostaService.SyncShipJob\CostaService.SyncShipJob\bin\Debug\CostaService.SyncShip.Job.exe
+Removing EventLog source CostaSyncShip.Service.
+Service CostaSyncShip.Service is being removed from the system...
+Service CostaSyncShip.Service was successfully removed from the system.
